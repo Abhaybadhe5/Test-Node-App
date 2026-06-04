@@ -1,0 +1,13 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "SNAT exhaustion test app",
+  "main": "nodetest.js",
+  "scripts": {
+    "start": "node nodetest.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
